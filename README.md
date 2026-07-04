@@ -59,7 +59,7 @@ Daily step averages among the most active tracked users range from roughly 6,000
 3. **Address the data gap as a product opportunity.** Since built-in sleep tracking was inconsistently used even among engaged FitBit users, Bellabeat could invest in making Time's sleep-tracking experience simpler and more consistent to use, ensuring more complete data for users and, at scale, more reliable insights for Bellabeat's own product development.
 
 ## Dashboard
-An interactive Tableau dashboard visualizing these findings is available here: (https://public.tableau.com/views/BellabeatSmartDeviceInsightsHowSedentaryTimeImpactsSleep/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+An interactive Tableau dashboard visualizing these findings is available here: **[Bellabeat Wellness Dashboard](https://public.tableau.com/app/profile/matthew.ofikwu8795/viz/BellabeatSmartDeviceInsightsHowSedentaryTimeImpactsSleep/Dashboard1)**
 
 ## Author 
 Analysis conducted by Ofikwu Matthew as a self-directed portfolio project, extending the Google Data Analytics Certificate capstone case study (Bellabeat) using a local Python/DuckDB environment in place of cloud-based tools.
